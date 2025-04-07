@@ -9,9 +9,11 @@
 
 ## ROMs
  EvolutionX (A14-9.6(EoL) A15-10.0 which will be updated to 10.4 soon)
+ 
  CrDroid (A14-10.13 will have A15 version 11.3 soon)
 ## Kernels 
  Not-Kernel
+ 
  LineageKSU+
 ## Recoveries
  Sky Hawk Recovery Project
