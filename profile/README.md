@@ -8,9 +8,9 @@
 ## Things currently maintained by us
 
 ## ROMs
- EvolutionX (A14-9.6(EoL) A15-10.0 which will be updated to 10.4 soon)
+ CrDroid (A14 version 10.13 and A15 version 11.4)
  
- CrDroid (A14-10.13 will have A15 version 11.3 soon)
+ EvolutionX (A14 version 9.6(EoL) and A15 version 10.5)
 ## Kernels 
  Not-Kernel
  
